@@ -1,0 +1,101 @@
+Patient_id,Case_id,Patient_disease,Patient_condition_critical,Doctor_id,Doctor_name,date
+1,101,flu,yes,D001,Dr Aadya,9/15/2021
+88,102,flu,yes,D003,Dr Vinayak,9/16/2021
+6,103,dengue,yes,D006,Dr Ali,9/16/2021
+9,104,dengue,no,D007,Dr Shefali,9/16/2021
+52,105,dengue,yes,D009,Dr Paridhi,9/16/2021
+45,106,malaria,yes,D012,Dr Neha,9/17/2021
+63,107,malaria,yes,D012,Dr Neha,9/18/2021
+89,108,malaria,yes,D016,Dr Tiyasha,9/19/2021
+77,109,typhoid,yes,D018,Dr Riya,9/20/2021
+88,110,typhoid,yes,D018,Dr Riya,9/28/2021
+56,111,typhoid,no,D021,Dr Kiruthika ,9/28/2021
+42,112,cholera,yes,D026,Dr Sujish,9/28/2021
+53,113,cholera,yes,D026,Dr Sujish,9/29/2021
+44,114,diarrhoea,no,D039,Dr Shajith,9/30/2021
+4,115,hepatitis A,yes,D031,Dr Shruti,9/30/2021
+5,116,flu,yes,D001,Dr Aadya,9/30/2021
+2,117,malaria,yes,D016,Dr Tiyasha,10/1/2021
+6,118,cholera,no,D028,Dr Sreeja ,10/2/2021
+3,119,hepatitis A,yes,D031,Dr Shruti,10/2/2021
+99,120,malaria,yes,D012,Dr Neha,10/2/2021
+7,121,flu,yes,D001,Dr Aadya,10/3/2021
+88,122,diarrhoea,no,D039,Dr Shajith,10/3/2021
+89,123,flu,yes,D003,Dr Vinayak,10/3/2021
+55,124,typhoid,no,D018,Dr Riya,10/4/2021
+2,125,cholera,yes,D026,Dr Sujish,10/6/2021
+5,126,hepatitis A,no,D036,Dr Anushri,10/6/2021
+8,127,cholera,yes,D028,Dr Sreeja ,10/7/2021
+6,128,malaria,no,D016,Dr Tiyasha,10/7/2021
+9,129,typhoid,yes,D018,Dr Riya,10/8/2021
+7,130,hepatitis A,no,D034,Dr Aayush,10/12/2021
+44,131,flu,yes,D003,Dr Vinayak,10/15/2021
+33,132,flu,yes,D003,Dr Vinayak,10/16/2021
+66,133,malaria,yes,D016,Dr Tiyasha,10/17/2021
+5,134,hepatitis A,yes,D039,Dr Shajith,10/18/2021
+12,135,cholera,yes,D029,Dr Nikhil,10/19/2021
+11,136,cholera,yes,D028,Dr Sreeja ,10/20/2021
+69,137,dengue,no,D006,Dr Ali,10/21/2021
+89,138,hepatitis A,yes,D048,Dr Anushri,10/21/2021
+79,139,typhoid,yes,D023,Dr Srishti,10/22/2021
+12,140,malaria,no,D016,Dr Tiyasha,10/22/2021
+13,141,flu,yes,D003,Dr Vinayak,10/22/2021
+14,142,typhoid,yes,D023,Dr Srishti,10/23/2021
+15,143,malaria,yes,D016,Dr Tiyasha,10/23/2021
+16,144,hepatitis A,yes,D036,Dr Anushri,10/23/2021
+17,145,cholera,yes,D043,Dr Ankitha,10/24/2021
+18,146,dengue,yes,D009,Dr Paridhi,10/25/2021
+19,147,diarrhoea,yes,D043,Dr Ankitha,10/25/2021
+32,148,flu,yes,D003,Dr Vinayak,10/26/2021
+33,149,diarrhoea,yes,D046,Dr Steve,10/27/2021
+34,150,malaria,yes,D016,Dr Tiyasha,10/28/2021
+35,151,typhoid,no,D023,Dr Srishti,10/28/2021
+36,152,dengue,yes,D009,Dr Paridhi,10/29/2021
+37,153,hepatitis A,no,D034,Dr Aayush,10/29/2021
+38,154,diarrhoea,yes,D046,Dr Steve,10/29/2021
+39,155,flu,no,D002,Dr Rithika ,10/29/2021
+46,156,flu,yes,D002,Dr Rithika ,10/30/2021
+49,157,flu,no,D003,Dr Vinayak,10/31/2021
+47,158,malaria,yes,D016,Dr Tiyasha,10/31/2021
+5,159,typhoid,yes,D023,Dr Srishti,11/1/2021
+2,160,diarrhoea,yes,D048,Dr Anushri,11/2/2021
+52,161,malaria,no,D048,Dr Anushri,11/6/2021
+53,162,flu,yes,D003,Dr Vinayak,11/9/2021
+56,163,hepatitis A,no,D031,Dr Shruti,11/12/2021
+58,164,hepatitis A,yes,D036,Dr Anushri,11/14/2021
+59,165,hepatitis A,no,D031,Dr Shruti,11/16/2021
+55,166,hepatitis A,yes,D036,Dr Anushri,11/18/2021
+9,167,hepatitis A,no,D031,Dr Shruti,11/19/2021
+66,168,hepatitis A,yes,D036,Dr Anushri,11/19/2021
+99,169,hepatitis A,yes,D036,Dr Anushri,11/20/2021
+98,170,hepatitis A,no,D036,Dr Anushri,11/22/2021
+87,171,hepatitis A,yes,D031,Dr Shruti,11/25/2021
+84,172,hepatitis A,no,D034,Dr Aayush,11/26/2021
+85,173,flu,yes,D002,Dr Rithika ,11/28/2021
+86,174,flu,no,D003,Dr Vinayak,11/29/2021
+82,175,flu,yes,D002,Dr Rithika ,11/30/2021
+81,176,malaria,no,D016,Dr Tiyasha,12/1/2021
+58,177,typhoid,yes,D021,Dr Kiruthika ,12/1/2021
+91,178,dengue,yes,D006,Dr Ali,12/8/2021
+92,179,dengue,yes,D008,Dr Muhammad ,12/13/2021
+93,180,dengue,yes,D009,Dr Paridhi,12/14/2021
+94,181,diarrhoea,yes,D048,Dr Anushri,12/18/2021
+95,182,typhoid,yes,D023,Dr Srishti,12/20/2021
+96,183,dengue,no,D008,Dr Muhammad ,12/20/2021
+81,184,hepatitis A,yes,D034,Dr Aayush,12/22/2021
+82,185,cholera,no,D028,Dr Sreeja ,12/23/2021
+83,186,typhoid,no,D023,Dr Srishti,12/23/2021
+84,187,malaria,no,D013,Dr Archit,12/23/2021
+85,188,dengue,yes,D006,Dr Ali,12/23/2021
+86,189,diarrhoea,yes,D047,Dr Harshi,1/11/2022
+87,190,flu,no,D002,Dr Rithika ,1/12/2022
+88,191,cholera,yes,D047,Dr Harshi,1/12/2022
+89,192,dengue,no,D006,Dr Ali,1/14/2022
+45,193,cholera,yes,D028,Dr Sreeja ,1/15/2022
+46,194,typhoid,yes,D023,Dr Srishti,1/17/2022
+11,195,diarrhoea,yes,D047,Dr Harshi,1/23/2022
+21,196,typhoid,yes,D023,Dr Srishti,1/24/2022
+22,197,malaria,yes,D013,Dr Archit,1/25/2022
+23,198,hepatitis A,yes,D034,Dr Aayush,1/25/2022
+25,199,malaria,yes,D013,Dr Archit,1/29/2022
+26,200,flu,yes,D001,Dr Aadya,1/31/2022

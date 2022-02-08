@@ -1,0 +1,50 @@
+Doctor_id,Doctor_name,Department_alloted
+D001,Dr Aadya,flu
+D002,Dr Rithika ,flu
+D003,Dr Vinayak,flu
+D004,Dr Kavin,flu
+D005,Dr Muskaan,flu
+D006,Dr Ali,dengue
+D007,Dr Shefali,dengue
+D008,Dr Muhammad ,dengue
+D009,Dr Paridhi,dengue
+D010,Dr Dipam ,dengue
+D011,Dr Rajyavardhan ,dengue
+D012,Dr Neha,malaria
+D013,Dr Archit,malaria
+D014,Dr Jonnada,malaria
+D015,Dr Ayusha,malaria
+D016,Dr Tiyasha,malaria
+D017,Dr Bhaskar shyam kumar,malaria
+D018,Dr Riya,typhoid
+D019,Dr Devendra,typhoid
+D020,Dr Gowri shankar,typhoid
+D021,Dr Kiruthika ,typhoid
+D022,Dr Venu gopal,typhoid
+D023,Dr Srishti,typhoid
+D024,Dr K.prashant ,typhoid
+D025,Dr Ponnapureddy,cholera
+D026,Dr Sujish,cholera
+D027,Dr Akash,cholera
+D028,Dr Sreeja ,cholera
+D029,Dr Nikhil,cholera
+D030,Dr Pratik raj ,cholera
+D031,Dr Shruti,hepatitis A
+D032,Dr Devireddy,hepatitis A
+D033,Dr Mohak,hepatitis A
+D034,Dr Aayush,hepatitis A
+D035,Dr Pratyush ,hepatitis A
+D036,Dr Anushri,hepatitis A
+D037,Dr Deepak ,hepatitis A
+D038,Dr Deepak ,diarrhoea
+D039,Dr Shajith,diarrhoea
+D040,Dr Arihant,diarrhoea
+D041,Dr Naman,diarrhoea
+D042,Dr A Narendra,diarrhoea
+D043,Dr Ankitha,diarrhoea
+D044,Dr Anushka ,diarrhoea
+D045,Dr Shantanu,diarrhoea
+D046,Dr Steve,diarrhoea
+D047,Dr Harshi,diarrhoea
+D048,Dr Anushri,diarrhoea
+D049,Dr Deepak ,diarrhoea
